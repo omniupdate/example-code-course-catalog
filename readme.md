@@ -20,7 +20,7 @@ Instructions
 Note, if adding a catalog to an existing project that follows closely with the existing implementation skeleton, you can follow these steps:
 
 - Download _resources directory of the current site.
-- Create new site in OUCampus.
+- Create new site in OU Campus.
 - Upload _resources directory from the old site.
 - Upload course catalog skeleton.
 - Publish current/_data and current/_config.pcf 
