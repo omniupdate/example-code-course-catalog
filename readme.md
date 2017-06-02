@@ -1,6 +1,6 @@
 ***The included source code, service and information is provided as is, and OmniUpdate makes no promises or guarantees about its use or misuse. The source code provided is recommended for advanced users and may not be compatible with all implementations of OU Campus.***
 
-#Course Catalog 1.0#
+# Course Catalog
 
 ## Initial Setup
 
