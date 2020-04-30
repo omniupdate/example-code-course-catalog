@@ -4,7 +4,7 @@
 
 ## Initial Setup
 
-The course catalog skeleton is designed to be compatible with the implementation skeleton.
+The course catalog skeleton is designed to be compatible with the implementation skeleton. It requires a developer familiar with XSL and XSL:FO to implement this package effectively. 
 
 Notes
 
